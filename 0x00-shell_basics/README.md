@@ -1,0 +1,1 @@
+This project contains learning the shell. The basics such as navigation, commands, and manipulating files are practiced. 
