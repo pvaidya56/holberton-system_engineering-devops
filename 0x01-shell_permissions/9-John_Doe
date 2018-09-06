@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -rxwr-x-wx  hello 
+chmod -rxwr-x-wx hello 
