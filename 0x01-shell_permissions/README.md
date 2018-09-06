@@ -1,0 +1,1 @@
+This project consists of what the commands chmod, sudo, su, chown, chgrp, id, groups, whoami, adduser, useradd, addgroup do and what they are used to do and create.
