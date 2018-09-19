@@ -1,0 +1,2 @@
+#!/bin/bash
+$b.convert.sh -i 2 BINARY
